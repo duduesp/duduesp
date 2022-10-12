@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Gustavo Esperguín Full-Stack Developer (1)](https://user-images.githubusercontent.com/59170875/195377131-d27bc384-404a-46cf-9313-54a2cd154551.jpg)
+
+
 <!--
 **duduesp/duduesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
