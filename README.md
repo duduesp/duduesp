@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Gustavo Esperguín!</h1>
 <h3 align="center">¡Hola! Soy Gustavo, Desarrollador Web Full Stack 💻, apasionado por la tecnología y en formación continua 🚀</h3>
 
-Soy una persona proactiva, dedicada y muy estructurada. Me apasiona el liderazgo y el trabajo en equipo, afrontar nuevos desafíos y adaptarme a nuevos entornos de trabajo. Me enfoco en la planificación y organización de proyectos, en la toma de decisiones, en la resolución de problemas, el logro de objetivos y la satisfacción del cliente 🤝
+Hola, mundo! Mi nombre es Gustavo, soy una persona apasionada por la tecnología y por estar en constante aprendizaje. Ese fue mi motor para adentrarme de lleno en el mundo de la programación. Después de dos años y medio de estudio, busco la oportunidad de insertarme en el mundo laboral y demostrar mis capacidades técnicas. Me considero una persona amante de trabajar en equipo y sociabilizar.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
