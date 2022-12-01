@@ -1,9 +1,8 @@
 ![Gustavo Esperguín Full-Stack Developer (1)](https://user-images.githubusercontent.com/59170875/195377131-d27bc384-404a-46cf-9313-54a2cd154551.jpg)
 
 <h1 align="center">Hola, soy Gustavo Esperguín!</h1>
-<h3 align="center">¡Hola! Soy Gustavo, Desarrollador Web Full Stack 💻, apasionado por la tecnología y en formación continua 🚀</h3>
 
-Hola, mundo! Mi nombre es Gustavo, soy una persona apasionada por la tecnología y por estar en constante aprendizaje. Ese fue mi motor para adentrarme de lleno en el mundo de la programación. Después de dos años y medio de estudio, busco la oportunidad de insertarme en el mundo laboral y demostrar mis capacidades técnicas. Me considero una persona amante de trabajar en equipo y sociabilizar.
+Hola, mundo! Soy una persona apasionada por la tecnología y por estar en constante aprendizaje. Ese fue mi motor para adentrarme de lleno en el mundo de la programación. Después de dos años y medio de estudio, busco la oportunidad de insertarme en el mundo laboral y demostrar mis capacidades técnicas. Me considero una persona amante de trabajar en equipo y sociabilizar.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
